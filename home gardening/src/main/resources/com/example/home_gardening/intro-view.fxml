@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<HBox prefHeight="600" prefWidth="1000"
+      xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.home_gardening.IntroController">
+
+    <!-- LEFT IMAGE -->
+    <StackPane prefWidth="600">
+        <ImageView fitWidth="600" fitHeight="600">
+            <image>
+                <Image url="@image/garden.jpeg"/>
+            </image>
+        </ImageView>
+    </StackPane>
+
+    <!-- RIGHT CONTENT -->
+    <VBox alignment="CENTER" spacing="20" prefWidth="400"
+          style="-fx-background-color:#DCEFE1;">
+
+        <padding>
+            <Insets top="40"/>
+        </padding>
+
+        <Label text="Home Gardening Assistant 🌿"
+               style="-fx-font-size:28px;
+                      -fx-font-weight:bold;
+                      -fx-text-fill:#2E7D32;"/>
+
+        <Label text="Welcome! Grow smart plants at home"
+               style="-fx-font-size:16px;
+                      -fx-text-fill:#3B6E47;"/>
+
+        <Button text="Next →"
+                onAction="#handleNext"
+                style="-fx-background-color:#2E7D32;
+                       -fx-text-fill:white;
+                       -fx-font-size:16px;
+                       -fx-background-radius:20;
+                       -fx-padding:10 30;"/>
+
+    </VBox>
+
+</HBox>

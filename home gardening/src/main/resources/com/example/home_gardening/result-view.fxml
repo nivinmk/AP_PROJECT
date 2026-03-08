@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER"
+      spacing="25"
+      prefWidth="1000"
+      prefHeight="600"
+      xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.home_gardening.ResultController"
+      style="-fx-background-color:#EAF5EA;">
+
+    <padding>
+        <Insets top="40"/>
+    </padding>
+
+    <Label text="Prediction Result 🌱"
+           style="-fx-font-size:32px; -fx-font-weight:bold;"/>
+
+    <Label fx:id="resultTitle"
+           text=""
+           style="-fx-font-size:24px; -fx-text-fill:#2E7D32;"/>
+
+    <Label fx:id="resultValue"
+           text=""
+           style="-fx-font-size:22px;"/>
+
+    <Button text="← Back to Features"
+            onAction="#goToFeatures"
+            prefWidth="200"
+            prefHeight="50"/>
+
+</VBox>

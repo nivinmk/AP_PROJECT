@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER"
+      spacing="20"
+      prefWidth="1000"
+      prefHeight="600"
+      xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.home_gardening.RecommendationController"
+      style="-fx-background-color:#DDEEDB;">
+
+    <padding>
+        <Insets top="40"/>
+    </padding>
+
+    <Label text="Plant Recommendation 🌿"
+           style="-fx-font-size:30px; -fx-font-weight:bold;"/>
+
+    <ComboBox fx:id="sunlightBox"
+              promptText="Sunlight Available"
+              prefWidth="220"/>
+
+    <ComboBox fx:id="waterBox"
+              promptText="Water Availability"
+              prefWidth="220"/>
+
+    <ComboBox fx:id="spaceBox"
+              promptText="Space Available"
+              prefWidth="220"/>
+
+    <Button text="Recommend Plant"
+            onAction="#recommendPlant"
+            prefWidth="200"
+            prefHeight="50"/>
+
+    <Label fx:id="resultLabel"
+           text=""
+           style="-fx-font-size:18px; -fx-text-fill:green;"/>
+
+    <Button text="← Back"
+            onAction="#goBack"
+            prefWidth="120"
+            prefHeight="40"/>
+
+</VBox>
