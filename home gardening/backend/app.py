@@ -1,5 +1,4 @@
 from flask import Flask, jsonify, request
-
 from ml_logic import predict_survival, recommend_plants
 
 app = Flask(__name__)
