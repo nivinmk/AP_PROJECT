@@ -1,6 +1,7 @@
 package com.example.home_gardening;
 
 import javafx.fxml.FXML;
+import javafx.concurrent.Task;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.event.ActionEvent;
@@ -10,6 +11,7 @@ import javafx.scene.Node;
 import javafx.stage.Stage;
 
 public class RecommendationController {
+    private final ApiService apiService = new ApiService();
 
     @FXML
     private ComboBox<String> sunlightBox;
@@ -33,33 +35,34 @@ public class RecommendationController {
 
     @FXML
     public void recommendPlant() {
+        String sun = sunlightBox.getValue();
+        String water = waterBox.getValue();
+        String space = spaceBox.getValue();
 
-        try {
-
-            String sun = sunlightBox.getValue();
-            String water = waterBox.getValue();
-            String space = spaceBox.getValue();
-
-            if(sun == null || water == null || space == null){
-                resultLabel.setText("Please select all inputs!");
-                return;
-            }
-
-            FXMLLoader loader = new FXMLLoader(
-                    getClass().getResource("/com/example/home_gardening/result-view.fxml"));
-
-            Scene scene = new Scene(loader.load());
-
-            ResultController controller = loader.getController();
-            controller.setResult("Recommended Plant", "Tomato");
-
-            Stage stage = (Stage) resultLabel.getScene().getWindow();
-            stage.setScene(scene);
-            stage.show();
-
-        } catch (Exception e) {
-            e.printStackTrace();
+        if(sun == null || water == null || space == null){
+            resultLabel.setText("Please select all inputs.");
+            return;
         }
+
+        resultLabel.setText("Loading recommendations...");
+
+        Task<String> task = new Task<>() {
+            @Override
+            protected String call() throws Exception {
+                var recommendations = apiService.recommendPlants(water, space, sun);
+                if (recommendations == null || recommendations.isEmpty()) {
+                    return "No plants found for selected inputs.";
+                }
+                return String.join(", ", recommendations);
+            }
+        };
+
+        task.setOnSucceeded(event -> resultLabel.setText(task.getValue()));
+        task.setOnFailed(event -> resultLabel.setText("Error: " + task.getException().getMessage()));
+
+        Thread thread = new Thread(task);
+        thread.setDaemon(true);
+        thread.start();
     }
 
     @FXML
@@ -77,7 +80,7 @@ public class RecommendationController {
             stage.show();
 
         } catch (Exception e) {
-            e.printStackTrace();
+            resultLabel.setText("Navigation error: " + e.getMessage());
         }
     }
 }

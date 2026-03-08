@@ -1,0 +1,659 @@
+id,latin,family,common,space,origin,climate,ideallight,toleratedlight,watering,insects,diseases,use,tempmax.celsius,tempmax.fahrenheit,tempmin.celsius,tempmin.fahrenheit
+0,Aeschynanthus lobianus,Gesneriaceae,Lipstick,low,Java,Tropical,medium,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+1,Adiantum raddianum,Polypodiaceae,"Maindenhair, Delta maidenhair",low,Brazil,Tropical,medium,Diffused,high,"['Mealy bug', 'Aphid', 'Snail']",Gray mold,"['Potted plant', 'Ground cover', 'Table top']",30,86.0,12,53.6
+2,Aechmea fatsiata,Bromeliaceae,Silver vase,low,Brazil,Tropical humid,medium,Diffused,low,,,"['Flower', 'Table top', 'Tertiary']",30,20.0,12,53.6
+3,Agave angustilolia Marginata,Amaryllidaceae,"Variegated Carabbean Agave, Century plant",low, India,Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,5,41.0
+4,Aechmea ramosa,Bromeliaceae,Coral berry,low,Brazil,Subtropical,medium,Diffused,low,,,"['Flower', 'Table top', 'Primary']",30,20.0,12,53.6
+6,Agave filifera,Amaryllidaceae,"Thread Agave, Century plant",low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,5,41.0
+7,Adiantum hispidulum,Polypodiaceae,"Rosy Maidenhair, Autralian maidenhair",low,Australia & New Guinea,Tropical,medium,Diffused,high,"['Mealy bug', 'Aphid', 'Snail']",Gray mold,"['Table top', 'Ground cover', 'Tertiary']",30,20.0,12,53.6
+8,Agave attenuata,Amaryllidaceae,"Dragon tree Agave, Century plant",low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,5,41.0
+9,Aglaonema,Araceae,"Chinese Evergreen, Amelia",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+10,Aglaonema,Araceae,"Chinese Evergreen, Painted Princess",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+11,Aglaonema,Araceae,"Chinese Evergreen, Queen of Siam",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+12,Aglaonema,Araceae,"Chinese Evergreen, Jewel of India",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Table top', 'Ground cover', 'Tertiary']",28,82.4,18,64.4
+13,Aglaonema,Araceae,"Chinese Evergreen, Patricia",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+14,Aglaonema,Araceae,"Chinese Evergreen, Green Lady",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+15,Aglaonema,Araceae,"Chinese Evergreen, Black Lance",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+16,Aglaonema,Araceae,"Chinese Evergreen, Silver Queen",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+17,Aglaonema,Araceae,"Chinese Evergreen, Rapsody in Green",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Primary', 'Secondary']",28,82.4,18,64.4
+18,Aglaonema,Araceae,"Chinese Evergreen, Manila Pride",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+19,Agave verschaffeltii,Amaryllidaceae,"Blue Agave, Century plant",low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,12,53.6
+20,Aglaonema,Araceae,"Chinese Evergreen, Emerald Beauty",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Table top', 'Ground cover', 'Tertiary']",28,82.4,18,64.4
+21,Aglaonema,Araceae,"Chinese Evergreen, Jubilee",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+22,Agave striata,Amaryllidaceae,"Lilliput Agave, Century plant, Nana",low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,12,53.6
+23,Aglaonema,Araceae,"Chinese Evergreen, Abidjan",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+24,Aglaonema,Araceae,"Chinese Evergreen, Maria Chirstina",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Ground cover', 'Tertiary']",28,82.4,18,64.4
+25,Alocasia nebula Imperialis,Araceae,Elephant ear,low,Cultivar,Tropical humid,medium,Direct sunlight.,high,"['Spider mite', 'Mealy bug']","['Phytophtora', 'Crown rot']","['Colors / Forms', 'Table top', 'Tertiary']",28,82.4,15,59.0
+26,Aglaonema,Araceae,"Chinese Evergreen, Emerald Isle",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+27,Aglaonema,Araceae,"Chinese Evergreen, Mary Ann",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+28,Allamanda nerifolia,Apocynaceae,Golden Trumpet,low,Brazil,Tropical,high,Direct sunlight.,high,"['Mealy bug', 'Scale', 'Spider mite']",,['Flower'],30,20.0,10,50.0
+29,Aglaonema,Araceae,"Chinese Evergreen, BJ Freeman",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Primary', 'Secondary']",28,82.4,18,64.4
+30,Aglaonema,Araceae,"Chinese Evergreen, Marguerita",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Primary', 'Secondary']",28,82.4,18,64.4
+31,Aglaonema,Araceae,"Chinese Evergreen, Emerald Star",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Secondary']",28,82.4,18,64.4
+32,Aglaonema,Araceae,"Chinese Evergreen, Silver Bay",low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+33,Aspidistra elatior,Liliaceae,Cast iron plant,low,China,Subtropical,medium,Diffused,low,"['Spider mite', 'Mealy bug', 'Scale']",,"['Ground cover', 'Potted plant']",28,82.4,8,46.4
+34,Anthurium superbum,Araceae,Bronze Anthurium,low,Ecuador,Tropical,medium,Diffused,low,"['Spider mite', 'Mealy bug']",,"['Table top', 'Colors / Forms', 'Secondary']",28,82.4,18,64.4
+35,Caryota mitis,Palmae,Fish tail palm,low, India,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Potted plant', 'Primary']",25,77.0,10,50.0
+36,Codiaeum petra,Euphorbiaceae,Croton,low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug']",,"['Potted plant', 'Secondary']",28,82.4,10,50.0
+37,Cereus peruvianus,Cactaceae,Tree Cereus,low,Brazil,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary']",35,95.0,5,41.0
+38,Blechnum gibbum,Polypodiaceae,"Miniature tree fern, Dwarf tree fern",low,New Calidonia,Tropical humid,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+39,Chamaedorea elegans,Arecaceae,"Bella palm, Neanthebella palm, Dwarf palm, Parlor palm",low,Mexico,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Tertiary']",28,82.4,5,41.0
+40,Calathea veitchiana,Marantaceae,Medallion Calathea,low,Hybrid,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Table top', 'Ground cover']",25,77.0,10,50.0
+41,Calathea pictura Argentea,Marantaceae,Silver Calathea,low,Cultivar,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Table top', 'Ground cover', 'Tertiary']",25,77.0,10,50.0
+42,Bougainvillea,Nyctaginaceae,"Bougainvillia, Paper flower",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Aphid', 'Mealy bug']",,"['Potted plant', 'Colors / Forms', 'Primary']",32,89.6,10,50.0
+43, Chamaedorea seifrizii,Arecaceae,"Bamboo palm, Reed Palm",low,Mexico,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+45,Anthurium X,Araceae,"Tailflower, Wax flower",low,Cultivar,Tropical,medium,Diffused,low,"['Spider mite', 'Mealy bug', 'Aphid']","['Erwinia', 'Crown rot']","['Flower', 'Table top', 'Tertiary']",22,71.6,18,64.4
+46,Anthurium hookeri,Araceae,"Bird nest Anthurium, Cabbage Anthurium",low,Guyana,Tropical humid,medium,Diffused,low,"['Mealy bug', 'Snail', 'Aphid']","['Erwinia', 'Crown rot']","['Potted plant', 'Secondary']",28,82.4,18,64.4
+47,Cissus rhombifolia,Vitaceae,"Grape Ivy, Ellen Danica",low,Cultivar,Subtropical,medium,Diffused,high,Mealy bug,"['Downy mildiou', 'Powdery']","['Hanging', 'Ground cover']",28,82.4,10,50.0
+48,Cereus peruvianus Monstrosus,Cactaceae,Monster cactus,low,Brazil,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary']",35,95.0,5,41.0
+49,Chamaedorea erumpens,Arecaceae,Bamboo palm,low,Honduras,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Potted plant', 'Secondary']",28,82.4,10,50.0
+50,Calathea stromata,Marantaceae,Stromante,low,Brazil,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Table top', 'Ground cover']",25,77.0,10,50.0
+52,Calathea rufibarba,Marantaceae,Velvet Calathea,low,Brazil,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Table top', 'Ground cover']",25,77.0,10,50.0
+54,Crassula argentea,Crasssulaceae,Jade Plant,low,South Africa,Subtropical arid,high,Direct sunlight.,low,Mealy bug,,"['Potted plant', 'Primary']",35,95.0,12,55.0
+56,Cissus rhombifolia,Vitaceae,Grape Ivy,low,Central America & South America,Tropical,medium,Diffused,high,Mealy bug,"['Downy mildiou', 'Powdery']","['Hanging', 'Ground cover']",28,82.4,10,50.0
+58,Chamaedorea metallica,Arecaceae,"Miniature fishtail, Steel palm",low,Mexico,Tropical,medium,Diffused,high,Mealy bug,,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+59,Aspidistra elatior Minor,Liliaceae,"Cast iron plant, Aspidistra Milky Way",low,Japan,Subtropical,medium,Diffused,low,"['Spider mite', 'Mealy bug', 'Scale']",,"['Ground cover', 'Potted plant']",28,82.4,8,46.4
+60,Calathea ornata Rosea lineata,Marantaceae,Stiped calathea,low,Cultivar,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Table top', 'Ground cover', 'Tertiary']",25,77.0,10,50.0
+61,Asplenium nidus,Aspleniaceae,Birdnest fern,low,Asia,Tropical humid,medium,Diffused,high,Mealy bug,,"['Potted plant', 'Primary']",28,82.4,15,59.0
+63,Chlorophytum comosum,Liliaceae,Spider plant,low,Central Africa,Tropical to subtropical,medium,Diffused,high,,,"['Hanging', 'Ground cover']",28,82.4,5,41.0
+64,Didymochlaena truncatula,Dryopteridaceae,Tree Maindenhair fern,low,South America,Tropical humid,high,Diffused,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Tertiary']",30,20.0,5,41.0
+65,Dieffenbachia,Araceae,"Dumcane, Tropic Mary Ann",low,Hybrid,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']","['Fusarium', 'Erwinia']","['Table top', 'Potted plant']",28,82.4,12,53.6
+66,Dieffenbachia,Araceae,"Dumcane, Star Bright",low,Hybrid,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']","['Fusarium', 'Erwinia']","['Potted plant', 'Secondary']",28,82.4,12,53.6
+67,Dracaena marginata,Liliaceae,"Madagascar dragon tree, Tricolor",low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale', 'Spider mite']",,"['Potted plant', 'Secondary']",28,82.4,10,50.0
+68,Dracaena fragrans Massangeana,Liliaceae,Cornstalk plant,low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Primary']",30,20.0,10,50.0
+69,Dracaena deremensis,Liliaceae,Janet Craig,low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+70,Cryptanthus Rose Eliane,Bromeliaceae,,low,Cultivar,Tropical,medium,Direct sunlight,low,,,"['Table top', 'Primary']",28,82.4,10,50.0
+71,Dracaena reflexa,Liliaceae,"Yellow Malaysian Dracaena, Song of India",low, India,Tropical,high,Direct sunlight.,high,Mealy bug,,"['Potted plant', 'Primary']",30,20.0,12,53.6
+72,Dieffenbachia maculata,Araceae,"Dumcane, Carina",low,Hybrid,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']","['Fusarium', 'Erwinia']","['Table top', 'Potted plant']",28,82.4,12,53.6
+73,Dracaena reflexa,Liliaceae,"Malaysian Dracaena, Song of Jamaica",low,Cultivar,Tropical,medium,Diffused,high,Mealy bug,,"['Potted plant', 'Secondary']",30,20.0,12,53.6
+74,Cycas revoluta,Cycadaceae,"Sago palm, King sago",low,Japan,Subtropical,high,/,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary']",30,20.0,8,46.4
+76,Ctenanthe lubbersiana,Marantaceae,Phrynium,low,Brazil,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Potted plant', 'Secondary']",25,77.0,12,53.6
+77,Dracaena reflexa,Liliaceae,Malaysian Dracaena,low,Madagascar,Tropical,medium,Diffused,high,Mealy bug,,"['Table top', 'Tertiary']",30,20.0,12,53.6
+78,Dracaena deremensis,Liliaceae,"Striped Dracaena, Gold Star",low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+79,Cyrtomium falcatum,Dryopteridaceae,Holly-fern,low,Asia,Subtropical,medium,Diffused,high,"['Scale', 'Mealy bug']",,"['Potted plant', 'Ground cover']",30,20.0,5,41.0
+80,Dracaena deremensis,Liliaceae,"Dwarf bouquet, Calypso Queen, Janet Craig Compacta",low,Africa,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+81,Davallia trichomannoides,Davalliaceae,"Rabbits foot, Squirrels foot",low,Canaries,Tropical,medium,Diffused,low,"['Mealy bug', 'Scale']",,"['Hanging', 'Potted plant']",25,77.0,10,50.0
+82,Dracaena deremensis,Liliaceae,"Lisa Dracaena, Lisa",low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Primary']",30,20.0,10,50.0
+83,Dracaena marginata,Liliaceae,Madagascar dragon tree,low,Madagascar,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale', 'Spider mite']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+84,Dracaena deremensis,Liliaceae,"Striped Dracaena, Warneckei",low,Africa,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+85,Dracaena deremensis,Liliaceae,"Striped Dracaena, Lemon Lime",low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Table top', 'Tertiary']",30,20.0,10,50.0
+86,Dieffenbachia maculata,Araceae,"Dumcane, Camille",low,Hybrid,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']","['Fusarium', 'Erwinia']","['Table top', 'Potted plant']",28,82.4,12,53.6
+87,Dieffenbachia amoena,Araceae,"Dumcane, Tropic Snow",low,Cultivar,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']","['Fusarium', 'Erwinia']","['Potted plant', 'Secondary']",28,82.4,12,53.6
+88,Ficus elastica,Moraceae,"Rubber plant, Tineke",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Mealy bug', 'Scale']",,"['Table top', 'Tertiary']",30,20.0,10,50.0
+89,Dypsis lutescens,Arecaceae,"Areca palm, Butterfly palm",low,Madagascar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",28,82.4,10,50.0
+90,Epiphyllum,Cactaceae,Orchid cactus,low,Hybrid,Tropical,medium,Direct sunlight,high,Mealy bug,,"['Hanging', 'Secondary']",32,89.6,5,41.0
+91,Echinocactus grusonii,Cactaceae,Golden Barrel,low,Central Mexico,Arid Tropical,high,/,low,"['Mealy bug', 'Scale', 'Spider mite']",,"['Potted plant', 'Primary']",40,104.0,5,41.0
+92,Euphorbia milii,Euphorbiaceae,"Christ thorn, Crown of thorns",low,Madagascar,Arid Tropical,high,Direct sunlight.,low,"['Mealy bug', 'White fly']","['Downy mildiou', 'Gray mold']","['Table top', 'Tertiary']",35,95.0,12,53.6
+93,Epipremnum aureum,Araceae,"White Pothos, Marble Queen",low,Cultivar,Tropical,medium,Diffused,high,Mealy bug,['Pythium'],"['Hanging', 'Tertiary']",30,20.0,12,53.6
+94,Guzmania,Bromeliaceae,"Guzmania, Guzmania Sunnytime",low,Cultivar,Tropical,medium,Diffused,low,,,"['Table top', 'Tertiary']",30,20.0,10,50.0
+95,Ficus maclellandii,Moraceae,"Willow fig tree, Amstel King",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Primary']",30,20.0,10,50.0
+96,Guzmania,Bromeliaceae,"Guzmania, Guzmania Empire",low,Cultivar,Tropical,medium,Diffused,low,,,"['Table top', 'Tertiary']",30,20.0,10,50.0
+97,Ficus benjamina,Moraceae,Weeping fig,low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+98,Fatsia japonica,Araliaceae,Japanese Aralia,low,Japan,Subtropical,medium,Direct sunlight,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Table top', 'Potted plant']",28,82.4,8,46.4
+99,Euphorbia ammack,Euphorbiaceae,Variegated Euphorbia,low,Africa,Arid Tropical,high,Direct sunlight.,low,"['Mealy bug', 'White fly']",Downy mildiou,"['Potted plant', 'Primary']",35,95.0,12,53.6
+100,Ficus pumila,Moraceae,"Creeping fig, Curl",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Hanging', 'Ground cover']",30,20.0,10,50.0
+101,Guzmania,Bromeliaceae,"Guzmania, Claret",low,Cultivar,Tropical,medium,Diffused,low,,,"['Table top', 'Tertiary']",30,20.0,10,50.0
+102,Ficus elastica,Moraceae,"Rubber plant, Robusta",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+103,Hedera canariensis,Araliaceae,"Algerian ivy, Montgomery ivy",low,Canaries,Subtropical,medium,Diffused,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Hanging', 'Ground cover']",30,20.0,5,41.0
+104,Epipremnum aureum,Araceae,Golden Pothos,low,South Pacific,Tropical,medium,Diffused,high,Mealy bug,['Pythium'],"['Hanging', 'Tertiary']",30,20.0,12,53.6
+105,Ficus lyrata,Moraceae,Fidleleaf fig,low,Ouest Africa,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+106,Euphorbia ingens,Euphorbiaceae,Giant Candelabra tree,low,South Africa,Arid Tropical,high,Direct sunlight.,low,Mealy bug,Downy mildiou,"['Potted plant', 'Primary']",35,95.0,12,53.6
+107,Ficus benjamina,Moraceae,"Weeping fig, Monique",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+108,Guzmania,Bromeliaceae,"Guzmania, Mariposa",low,Cultivar,Tropical,medium,Diffused,low,,,"['Table top', 'Tertiary']",30,20.0,10,50.0
+109,Ficus maclellandii Alii,Moraceae,Willow Ficus,low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Primary']",30,20.0,10,50.0
+110,Guzmania,Bromeliaceae,"Guzmania, Marjan",low,Cultivar,Tropical,medium,Diffused,low,,,"['Table top', 'Tertiary']",30,20.0,10,50.0
+111,Ficus benjamina,Moraceae,"Weeping fig, Midnight",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+112,Guzmania,Bromeliaceae,"Guzmania, Rana",low,Cultivar,Tropical,medium,Diffused,low,,,"['Table top', 'Tertiary']",30,20.0,10,50.0
+113,Ficus elastica,Moraceae,"Rubber plant, Burgandy",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,10,50.0
+115,Hedera helix,Araliaceae,"English ivy, Gold Baby",low,Cultivar,Subtropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Hanging', 'Ground cover']",30,20.0,5,41.0
+116,Maranta leuconeura erythroneura,Marantaceae,"Herringbone, Pink praying plant",low,Brazil,Tropical,medium,Diffused,high,Mealy bug,,"['Hanging', 'Table top']",28,82.4,12,53.6
+117,Hedera helix,Araliaceae,"English ivy, Hermania",low,Cultivar,Subtropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Hanging', 'Ground cover']",30,20.0,5,41.0
+118,Monstera deliciosa,Araceae,"Splitleaf Philodendron, Mexican Breadfruit",low,Central America,Tropical,medium,Diffused,low,Mealy bug,,"['Potted plant', 'Secondary']",32,89.6,12,53.6
+120,Peperomia obtusifolia,Piperaceae,"Baby rubber plant, Pepper face",low,Venezuela,Tropical,medium,/,high,Mealy bug,,"['Table top', 'Ground cover', 'Tertiary']",32,89.6,10,50.0
+121,Ophiopogon japonicus,Liliaceae,Snakes beard,low,Japan,Subtropical,medium,Direct sunlight,high,"['Spider mite', 'Scale']",,"['Ground cover', 'Tertiary']",28,82.4,5,41.0
+122,Hedychium coronarium,Zingiberaceae,"Butterfly Ginger, White Ginger",low,China,Subtropical,high,Direct sunlight.,high,,,"['Flower', 'Secondary']",30,20.0,10,50.0
+123,Hedera helix variegata,Araliaceae,"English ivy, Variegated English ivy",low,Cultivar,Subtropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Hanging', 'Ground cover']",30,20.0,5,41.0
+125,Hedera helix,Araliaceae,"English ivy, Garland",low,Cultivar,Subtropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Hanging', 'Ground cover']",30,20.0,5,41.0
+126,Hoya carnosa Exotica,Asclepiadaceae,Wax plant,low,Cultivar,Tropical,medium,Diffused,low,"['Mealy bug', 'Thrips']",,"['Hanging', 'Table top']",28,82.4,12,53.6
+127,Nerium oleander,Apocynaceae,"Oleander, Rose bay",low,Mediterranean,Subtropical,high,/,high,"['Scale', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Secondary']",30,20.0,5,41.0
+128,Pachypodium geayi,Apocynaceae,Madagascar Palm,low,Madagascar,Arid Tropical,high,Direct sunlight.,low,Mealy bug,,"['Potted plant', 'Primary']",35,95.0,8,46.4
+129,Licuala spinosa,Arecaceae,Spiny licuala palm,low,Malaysia,Tropical,medium,Direct sunlight,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",30,20.0,15,59.0
+130,Philodendron,Araceae,"Red Philodendron, Imperial Red",low,Cultivar,Tropical,medium,Diffused,high,Mealy bug,Erwinia,"['Table top', 'Secondary']",28,82.4,18,64.4
+132,Liriope muscari Variegata,Liliaceae,Variegated lily turf,low,Japan,Subtropical,medium,Direct sunlight,high,"['Spider mite', 'Scale']",,"['Ground cover', 'Table top']",30,20.0,8,46.4
+133,Philodendron micans,Araceae,Velvet leaf vine,low,Dominica,Tropical,medium,Diffused,high,Mealy bug,Erwinia,"['Hanging', 'Secondary']",28,82.4,18,64.4
+134,Maranta leuconeura kerchoveana,Marantaceae,"Green prayer plant, Herringbone",low,Brazil,Tropical,medium,Diffused,high,Mealy bug,,"['Hanging', 'Table top']",28,82.4,12,53.6
+136,Nolina recurvata,Agavaceae,"Elephant foot, Pony tail",low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Primary', 'Potted plant']",32,89.6,12,53.6
+137,Philodendron,Araceae,"Lime philodendron, Moonlight",low,Cultivar,Tropical,medium,Diffused,high,Mealy bug,Erwinia,"['Table top', 'Secondary']",28,82.4,18,64.4
+139,Hyophorbe verschaffeltii,Arecaceae,Spindle palm,low,Rodrigue Island,Tropical,high,Direct sunlight.,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Primary']",35,95.0,10,50.0
+140,Hedera helix,Araliaceae,English ivy,low,Cultivar,Subtropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Hanging', 'Ground cover']",30,20.0,5,41.0
+142,Medinilla magnifica,Melastomataceae,Rose grape,low,Philippines,Tropical,high,Direct sunlight.,high,Mealy bug,,"['Potted plant', 'Flower']",30,20.0,15,59.0
+143,Hibiscus rosa sinensis,Malvaceae,Chinese hibiscus,low,Asia,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'White fly']",,"['Flower', 'Secondary']",28,82.4,10,50.0
+144,Nephrolepis exaltata var,Nephrolepidaceae,"Boston fern, Sword fern",low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']",,"['Hanging', 'Tertiary']",28,82.4,10,50.0
+145,Howea forsteriana,Arecaceae,"Kentia palm, Paradise palm",low,South Pacific,Tropical,medium,Diffused,high,,,"['Potted plant', 'Primary']",28,82.4,12,53.6
+146,Philodendron,Araceae,Emerald Prince,low,Cultivar,Tropical,medium,Diffused,high,Mealy bug,Erwinia,"['Table top', 'Secondary']",28,82.4,18,64.4
+147,Homalomena,Araceae,Emerald Gem,low,Cultivar,Tropical,medium,Diffused,high,Mealy bug,,"['Table top', 'Tertiary']",28,82.4,10,50.0
+148,Peperomia clusiifolia,Piperaceae,Tricolor Peperomia,low,Cultivar,Tropical,medium,/,high,Mealy bug,,"['Table top', 'Ground cover', 'Tertiary']",32,89.6,10,50.0
+149,Pandorea jasminoides,Bignoniaceae,"Bower plant, Bower of beauty",low,Australia,Subtropical,high,Direct sunlight.,high,Mealy bug,,"['Potted plant', 'Secondary']",28,82.4,8,46.4
+151,Radermachera sinica,Bignoniaceae,China doll,low,China,Subtropical,high,Direct sunlight.,high,Mealy bug,,"['Table top', 'Tertiary']",28,82.4,8,46.4
+152,Pteris cretica Parkeri,Pteridaceae,Cretan brake,low,Cultivar,Tropical humid,medium,/,high,,,"['Table top', 'Tertiary']",28,82.4,12,53.6
+153,Polystichum tsus simense,Dryopteridaceae,"Korean rock fern, Tsu sima holly fern",low,Korea,Subtropical,medium,/,high,,,"['Table top', 'Tertiary']",28,82.4,-5,23.0
+154,Polystichum polyblepharum,Dryopteridaceae,Japanese tassel fern,low,Japan,Subtropical,medium,/,high,,,"['Table top', 'Tertiary']",28,82.4,-5,23.0
+155,Ravenea rivularis,Arecaceae,Majesty palm,low,Madagascar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug']",,"['Potted plant', 'Secondary']",30,20.0,8,46.4
+156,Polyscias scutellaria,Araliaceae,"Fabian Aralia, Red Aralia",low,Asia,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Primary']",30,20.0,12,53.6
+157,Pteris cretica Albo lineata,Pteridaceae,Silver Ribbon Fern,low,Cultivar,Tropical humid,medium,/,high,,,"['Table top', 'Tertiary']",28,82.4,12,53.6
+158,Platycerium bifurcatum,Polypodiaceae,Staghorn fern,low,Australia,Tropical,medium,Diffused,high,,,"['Potted plant', 'Tertiary']",30,20.0,5,41.0
+160,Polyscias pinnatta,Araliaceae,"Balfour aralia, Aralia Balfouriana, Lemon Lime",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Primary']",30,20.0,12,53.6
+162,Sansevieria trifasciata Laurentii,Liliaceae,Snake plant,low,South Africa,Tropical,medium,Diffused,low,,,"['Potted plant', 'Tertiary']",35,95.0,10,50.0
+163,Philodendron pinnatifidum,Araceae,Fernleaf Philodendron,low,Venezuela,Tropical,medium,Diffused,high,Mealy bug,Erwinia,"['Table top', 'Tertiary']",28,82.4,18,64.4
+164,Podocarpus gracilior,Podocarpaceae,"African fern pine, Buddhist pine",low,Central Africa,Subtropical,high,Direct sunlight.,high,"['Mealy bug', 'Scale']",,"['Potted plant', 'Primary']",30,20.0,10,50.0
+165,Sansevieria trifasciata Hahnii,Liliaceae,"Birdnest sansevieria, Snake plant",low,Cultivar,Tropical,medium,Diffused,low,,,"['Table top', 'Tertiary']",35,95.0,10,50.0
+167,Polyscias crispata,Araliaceae,Chicken gizard aralia,low,Malaysia,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Primary']",30,20.0,12,53.6
+168,Phoenix roebellinii,Palmae,Pignee Date palm,low,Vietnam,Tropical,high,/,high,"['Spider mite', 'Scale']",,"['Potted plant', 'Primary']",28,82.4,8,46.4
+169,Polyscias pinnata Marginata,Araliaceae,"Variegated Balfour aralia, Aralia Balfouriana",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Primary']",30,20.0,12,53.6
+170,Polyscias fruticosa Elegans,Araliaceae,"Ming Aralia, Parsley panax",low,Malaysia,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Primary']",30,20.0,12,53.6
+171,Philodendron selloum,Araceae,Lacy tree philodendron,low,Brazil,Tropical,medium,Diffused,high,Mealy bug,Erwinia,"['Potted plant', 'Secondary']",28,82.4,18,64.4
+172,Pteris ensiformis Evergemiensis,Pteridaceae,Silver Lace Fern,low,Asia,Tropical humid,medium,/,high,,,"['Table top', 'Tertiary']",28,82.4,12,53.6
+173,Rhapis excelsa,Arecaceae,Lady palm,low,China,Subtropical,medium,Diffused,high,,,"['Potted plant', 'Secondary']",30,20.0,8,46.4
+175,Philodendron scandens oxycardium,Araceae,"Parlor ivy, Sweetheart plant, Heartleaf philodendron, Cordatum vine",low,Central America,Tropical,medium,Diffused,high,Mealy bug,Erwinia,"['Potted plant', 'Secondary']",28,82.4,18,64.4
+176,Veitchia merrillii,Arecaceae,"Adonidia, Christmas palm, Manila palm",low,Philippines,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug']",,"['Potted plant', 'Secondary']",30,20.0,15,59.0
+177,Spathiphyllum Lynise,Araceae,Peace lily,low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Thrips']",Phytophtora,"['Potted plant', 'Secondary']",28,82.4,15,59.0
+180,Trichilia dregei,Miliaceae,"Cape mahogany, Christmas bells",low,Zimbabwe,Tropical humid,medium,Diffused,high,Mealy bug,,"['Potted plant', 'Secondary']",28,82.4,12,53.6
+183,Syngonium podophyllum,Araceae,"African evergreen, Arrowhead vine, Goosefoot plant, White Lightning",low,Cultivar,Tropical humid,medium,Diffused,high,"['Spider mite', 'Mealy bug']","['Crown rot', 'Erwinia']","['Hanging', 'Tertiary']",28,82.4,12,53.6
+184,Syagrus schizophylla,Arecaceae,Parrot palm,low,Brazil,Tropical humid,high,Direct sunlight.,high,,,"['Potted plant', 'Primary']",30,20.0,12,53.6
+185,Tillandsia cyanea,Bromeliaceae,Pink quill,low,Ecuador,Tropical humid,medium,Diffused,low,,,"['Table top', 'Tertiary']",30,20.0,15,59.0
+188,Xanthosoma lindenii,Araceae,Indian kale,low,Colombia,Tropical,medium,Diffused,high,"['Spider mite', 'Mealy bug']",,"['Potted plant', 'Primary']",28,82.4,12,53.6
+189,Schefflera elegantissima,Araliaceae,False aralia,low,New Calidonia,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug', 'Scale']",,"['Potted plant', 'Secondary']",28,82.4,12,53.6
+192,Sedum morganianum,Crasssulaceae,Burro tail,low,Mexico,Arid Tropical,high,Direct sunlight.,low,Mealy bug,,"['Hanging', 'Tertiary']",35,95.0,8,46.4
+194,Syngonium podophyllum,Araceae,"African evergreen, Arrowhead vine, Goosefoot plant, Pink Allusion",low,Cultivar,Tropical humid,medium,Diffused,high,"['Spider mite', 'Mealy bug']","['Crown rot', 'Erwinia']","['Hanging', 'Tertiary']",28,82.4,12,53.6
+195,Scindapsus pictus argyraeus,Araceae,"Picta Philodendron, Satin pothos, Devils ivy",low,Indonisia,Tropical,medium,Diffused,low,Mealy bug,,"['Hanging', 'Tertiary']",30,20.0,12,53.6
+196,Xanthorrhoea arborea,Liliaceae,Grass tree,low,Australia,Arid Tropical,high,/,low,,,"['Potted plant', 'Primary']",35,95.0,12,53.6
+197,Schefflera arboricola Trinette,Araliaceae,"Yellow Hawaiian elf, Yellow parasol plant",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Table top', 'Secondary']",30,20.0,12,53.6
+198,Schefflera actinophylla Amate,Araliaceae,Umbella plant,low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Secondary']",28,82.4,12,53.6
+202,Schefflera arboricola,Araliaceae,"Hawaiian elf, Parasol plant",low,Taiwan,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Secondary']",30,20.0,12,53.6
+203,Spathiphyllum,Araceae,"Peace lily, Emerald Swirl",low,Cultivar,Tropical,medium,Diffused,high,"['Mealy bug', 'Thrips']",Phytophtora,"['Table top', 'Tertiary']",28,82.4,15,59.0
+205,Schefflera arboricola,Araliaceae,"Hawaiian elf, Parasol plant, Gold Cappela",low,Cultivar,Tropical,high,Direct sunlight.,high,"['Spider mite', 'Aphid', 'Mealy bug']",,"['Potted plant', 'Secondary']",30,20.0,12,53.6
+206,Strelitzia nicolai,Strelitziaceae,White bird of paradise,low,South Africa,Subtropical,high,Direct sunlight.,high,"['Spider mite', 'Mealy bug']",,"['Table top', 'Tertiary']",30,20.0,12,53.6
+207,Zamioculcas zamifolia,Araceae,Zz plant,low,South Africa,Tropical,medium,Diffused,high,,,"['Table top', 'Secondary']",30,20.0,12,53.6
+208,Yucca elephantipes,Liliaceae,"Spineless yucca, Palm lily",low,Mexico,Subtropical,high,Direct sunlight.,high,,Downy mildiou,"['Potted plant', 'Secondary']",30,20.0,12,53.6
+0,Aeschynanthus lobianus,Gesneriaceae,Money Plant,low,Java,Tropical,medium,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+1,Adiantum raddianum,Polypodiaceae,Snake Plant,low,Brazil,Tropical,medium,Diffused,high,"['Mealy bug', 'Aphid', 'Snail']",Gray mold,"['Potted plant', 'Ground cover', 'Table top']",30,86.0,12,53.6
+2,Aechmea fatsiata,Bromeliaceae,Aloe Vera,low,Brazil,Tropical humid,medium,Diffused,low,,,"['Flower', 'Table top', 'Tertiary']",30,20.0,12,53.6
+3,Agave angustilolia Marginata,Amaryllidaceae,Areca Palm,low, India,Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,5,41.0
+4,Aechmea ramosa,Bromeliaceae,Peace Lily,low,Brazil,Subtropical,medium,Diffused,low,,,"['Flower', 'Table top', 'Primary']",30,20.0,12,53.6
+5,Aechmea fasciata,Bromeliaceae,Spider Plant,low,Hybrid,Tropical humid,medium,Diffused,low,,,"['Flower', 'Table top', 'Tertiary']",30,20.0,12,53.6
+6,Agave filifera,Amaryllidaceae,Tulsi,low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,5,41.0
+7,Adiantum hispidulum,Polypodiaceae,Mint,low,Australia & New Guinea,Tropical,medium,Diffused,high,"['Mealy bug', 'Aphid', 'Snail']",Gray mold,"['Table top', 'Ground cover', 'Tertiary']",30,20.0,12,53.6
+8,Agave attenuata,Amaryllidaceae,Coriander,low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,5,41.0
+9,Aglaonema,Araceae,Spinach,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+10,Aglaonema,Araceae,Tomato,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+11,Aglaonema,Araceae,Chilli,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+12,Aglaonema,Araceae,Brinjal,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Table top', 'Ground cover', 'Tertiary']",28,82.4,18,64.4
+13,Aglaonema,Araceae,Cabbage,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+14,Aglaonema,Araceae,Carrot,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+15,Aglaonema,Araceae,Strawberry,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+16,Aglaonema,Araceae,Papaya,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+17,Aglaonema,Araceae,Banana,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Primary', 'Secondary']",28,82.4,18,64.4
+18,Aglaonema,Araceae,Guava,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+19,Agave verschaffeltii,Amaryllidaceae,Pomegranate,low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,12,53.6
+20,Aglaonema,Araceae,Lemon,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Table top', 'Ground cover', 'Tertiary']",28,82.4,18,64.4
+21,Aglaonema,Araceae,Drumstick Tree,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+22,Agave striata,Amaryllidaceae,Curry Leaf Plant,low,Mexico,Arid Tropical,high,Direct sunlight.,low,"['Scale', 'Mealy bug']",,"['Potted plant', 'Primary', 'Secondary']",35,95.0,12,53.6
+23,Aglaonema,Araceae,Neem (small),low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Secondary', 'Tertiary']",28,82.4,18,64.4
+24,Aglaonema,Araceae,Moringa,low,Hybrid,Tropical,medium,Diffused,high,"['Mealy bug', 'Scale']","['Phytophtora', 'Crown rot']","['Potted plant', 'Ground cover', 'Tertiary']",28,82.4,18,64.4
+25,Alocasia nebula Imperialis,Araceae,Fig (small),low,Cultivar,Tropical humid,medium,Direct sunlight.,high,"['Spider mite', 'Mealy bug']","['Phytophtora', 'Crown rot']","['Colors / Forms', 'Table top', 'Tertiary']",28,82.4,15,59.0
+0,Aeschynanthus lobianus,Gesneriaceae,Aglaonema Red,low,Java,Tropical,low,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Syngonium,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Anthurium Red,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Kalanchoe,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Peperomia,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Fittonia,low,Java,Tropical,low,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Caladium,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Begonia,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Onion,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Garlic,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Beans,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Peas,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Capsicum,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cauliflower,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Broccoli,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Radish,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Beetroot,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Okra,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Orange (dwarf),medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sapota,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dragon Fruit,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Grapes,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pineapple,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mosambi,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Hibiscus,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Rose,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ixora,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Jasmine,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Henna,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tecoma,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Plumeria,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Marigold,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Petunia,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Zinnia,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pansy,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Portulaca,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Vinca,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dahlia (dwarf),low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Chrysanthemum,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tomato Cherry,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lettuce,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cucumber,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Spring Onion,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Curry Leaf (medium),medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Adenium,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coleus,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Geranium,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Balsam,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Celosia,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mango Tree,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Guava Tree,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Papaya Tree,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Banana Plant,high,Java,Tropical,high,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coconut Tree,high,Java,Tropical,high,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ashoka Tree,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bottle Brush,high,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bougainvillea,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Frangipani,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Hibiscus Tree,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lucky Bamboo,low,Java,Tropical,low,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Brasil,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Xanadu,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Monstera Deliciosa,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Monstera Adansonii,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Polly,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Amazonica,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Calathea Orbifolia,low,Java,Tropical,low,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Calathea Lancifolia,low,Java,Tropical,low,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Peperomia Obtusifolia,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Schefflera Arboricola,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dracaena Marginata,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dracaena Compacta,low,Java,Tropical,low,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Croton Petra,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Amaranthus (Cheera),low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bitter Gourd,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Snake Gourd,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ridge Gourd,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bottle Gourd,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ivy Gourd,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pumpkin,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ash Gourd,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Malabar Spinach,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Fenugreek (Methi),low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Passion Fruit,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Star Fruit,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Jamun,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Amla,high,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Custard Apple,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Wood Apple,high,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Jasmine (Arabian),low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Rose Mini,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Orchid Dendrobium,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Vanda Orchid,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gomphrena,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cosmos,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sunflower Dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tuberose,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Curry Leaf Tree,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coconut Dwarf,high,Java,Tropical,high,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mango Grafted,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Jackfruit Dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Papaya Red Lady,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Anthurium Clarinervium,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Anthurium Crystallinum,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Micans,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Lemon Lime,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Moonlight,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Imperial Green,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Imperial Red,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Syngonium Neon,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Syngonium Pixie,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Syngonium Confetti,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Black Velvet,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Frydek,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Zebrina,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Colocasia Black Magic,medium,Java,Tropical,high,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Caladium Red Flash,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Caladium White Queen,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Begonia Rex,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Begonia Maculata,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pilea Depressa,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pilea Glauca,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Adathoda,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Nilavembu,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Keezhanelli,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Karpooravalli,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Vetiver,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Brahmi Mandukaparni,low,Java,Tropical,low,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bitter Gourd Hybrid,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Snake Gourd Hybrid,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ridge Gourd Hybrid,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bottle Gourd Long,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bottle Gourd Round,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pumpkin Hybrid,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cucumber Hybrid,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Yard Long Beans,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pea Climber,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pole Beans,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Strawberry Winter Dawn,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Strawberry Sweet Charlie,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Strawberry Chandler,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Blackberry,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Raspberry Tropical,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Blue Pea,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gaillardia,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coreopsis,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cosmos Sulphureus,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cosmos Bipinnatus,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sunflower Tall,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sunflower Red,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gomphrena White,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gomphrena Pink,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Balsam Rose,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Balsam White,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alternanthera Red,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alternanthera Yellow,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Iresine,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coleus Rainbow,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dusty Miller,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Asystasia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ruellia Purple,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ruellia White,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tradescantia Pallida,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Wedelia,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Teak Sapling,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mahogany Sapling,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Jackfruit Varikka,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Jackfruit Koozha,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mango Alphonso,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mango Banganapalli,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mango Neelam,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coconut Tall,high,Java,Tropical,high,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coconut Chowghat Dwarf,medium,Java,Tropical,high,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tamarind,high,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Foxtail Palm,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Royal Palm,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Travellers Palm,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Fan Palm,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Date Palm Ornamental,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Phoenix Roebelenii,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Aglaonema Cutlass,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Congo Green,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Monstera Peru,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Scindapsus Jade Satin,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Syngonium Mojito,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Stingray,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Calathea Vittata,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Maranta Silver,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Peperomia Hope,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Hoya Linearis,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ficus Audrey,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dracaena Tornado,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Schefflera Amate,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Asparagus Plumosa,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Nephrolepis Exaltata Compacta,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Thai basil,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Stevia,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Turmeric,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ginger,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lemongrass dwarf,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gotu kola,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Brahmi Bacopa,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Punarnava,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Vallarai,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Red lettuce,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Kale red Russian,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Swiss chard red,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Microgreens mix,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pea shoots,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Radish microgreens,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tomato Roma,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Chilli Jalapeno,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Capsicum purple,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Brinjal white,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Okra Clemson spineless,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cucumber English,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Zucchini yellow,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sweet corn,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pea snow,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,French beans bush,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Guava Lalit,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pomegranate Arakta,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lemon Meyer,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Banana Grand Nain,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Papaya Pusa Nanha,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Fig Black Mission,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mulberry Pakistan,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dragon fruit yellow,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Star fruit dwarf,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sapota Kalipatti,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Petunia wave,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Marigold African,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Zinnia dwarf mix,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cosmos dwarf,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Vinca trailing,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dianthus mix,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alyssum carpet,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Verbena trailing,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lobelia blue,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Nasturtium dwarf,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coleus wizard mix,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alternanthera ficoidea,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Iresine herbstii,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dusty miller silver,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cordyline pink,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tradescantia albiflora,low,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Purple waffle plant,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pilea involucrata,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Mango Totapuri,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coconut Malayan dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Jackfruit hybrid,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tamarind grafted,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cassia fistula,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pongamia,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Indian almond,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bauhinia,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Plumeria dwarf,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Areca palm dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Rhapis excelsa,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Licuala grandis,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Caryota mitis,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Venus flytrap,low,Java,Tropical,medium,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pitcher plant Nepenthes,low,Java,Tropical,medium,Direct sunlight,high,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lithops living stones,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Haworthia zebra,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Echeveria elegans,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Crassula ovata jade,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,ZZ Raven,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,ZZ Zenzi,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Monstera Thai Constellation,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Monstera Albo,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Monstera Dubia,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Pink Princess,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron White Knight,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron White Wizard,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Florida Ghost,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Philodendron Gloriosum,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Anthurium Warocqueanum,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Anthurium Veitchii,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Regal Shield,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Dragon Scale,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alocasia Maharani,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Calathea Orbifolia Large,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Calathea Musaica,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Maranta Silver Band,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Peperomia Raindrop,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Peperomia Polybotrya,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Leek,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Celery,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Asparagus,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Artichoke,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Endive,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Radicchio,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Kohlrabi,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Fennel bulb,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Parsnip,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Rutabaga,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Turnip root,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Horseradish,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Watercress,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Collard greens,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Chicory root,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tomatillo,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ground cherry,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pepperoncini,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Habanero pepper,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Serrano pepper,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Poblano pepper,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Shishito pepper,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Banana pepper,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Eggplant Japanese,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Eggplant Italian,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Eggplant Fairy Tale,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pattypan squash,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Acorn squash,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Spaghetti squash,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Delicata squash,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Apple dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pear dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Peach dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Plum dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cherry dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Apricot dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Nectarine dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Blueberry highbush,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Blueberry lowbush,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gooseberry,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Currant red,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Currant black,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Kiwi hardy,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Kiwi golden,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Persimmon dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tulip,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Daffodil,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Hyacinth,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Iris,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lily Asiatic,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lily Oriental,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Peony,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ranunculus,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Anemone,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Delphinium,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Foxglove,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Snapdragon,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sweet william,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Carnation,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Petunia multiflora,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Hosta,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Heuchera,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coleus Kong,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coleus Wizard,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Silver falls dichondra,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lantana,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Salvia splendens,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Salvia farinacea,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Verbena bonariensis,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Geranium zonal,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Geranium ivy,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Begonia wax,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Begonia tuberous,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Impatiens New Guinea,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Maple dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Japanese maple,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Olive tree,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Citrus calamondin,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Citrus kumquat,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Citrus yuzu,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Magnolia dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Dogwood,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Redbud,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Birch dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Spruce dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pine dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Juniper,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Cypress dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Willow dwarf,high,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Aloe aristata lace,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Aloe polyphylla,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gasteria,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gasteraloe,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Agave victoriae-reginae,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Agave attenuata,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Opuntia ficus-indica,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ferocactus,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gymnocalycium,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Astrophytum,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Echinopsis,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Rebutia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Parodia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Notocactus,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Schlumbergera,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Abelia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ajuga,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Alchemilla,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Allium ornamental,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Amsonia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Artemisia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Aster perennial,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Astilbe,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Aubrieta,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Bergenia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Brunnera,medium,Java,Tropical,low,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Campanula,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Canna,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Carex grass,medium,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ceanothus,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Clematis,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Coreopsis tall,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Crocosmia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Daphne,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Diascia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Echinacea,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Euphorbia characias,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Gaura,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Geum,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Helenium,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Hellebore,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Heucherella,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Hibiscus syriacus,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Hosta variegated,medium,Java,Tropical,low,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Iberis,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Kniphofia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lobularia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lupin,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Lychnis,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Miscanthus,medium,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Monarda,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Nepeta,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ophiopogon,medium,Java,Tropical,medium,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Penstemon,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Perovskia,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Phormium,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pieris japonica,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Platycodon,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Polemonium,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Potentilla,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Pulmonaria,medium,Java,Tropical,low,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Rudbeckia,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Salvia nemorosa,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Saxifraga,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sedum autumn joy,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Sempervivum,low,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Stachys byzantina,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Tiarella,medium,Java,Tropical,low,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Verbascum,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Veronica spicata,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Viburnum dwarf,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Weigela,medium,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Yucca filamentosa,medium,Java,Tropical,high,Direct sunlight,low,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Zantedeschia,low,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Zauschneria,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Zizia aurea,medium,Java,Tropical,medium,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Zelkova bonsai,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Podocarpus bonsai,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Juniper bonsai,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
+0,Aeschynanthus lobianus,Gesneriaceae,Ficus bonsai,low,Java,Tropical,high,Direct sunlight,medium,"['Mealy bug', 'Aphid', 'Thrips']",,"['Hanging', 'Flower', 'Tertiary']",32,89.6,14,57.2
